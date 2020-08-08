@@ -23,7 +23,7 @@ def second_challenge
       :hero => {
         name: "Juliet"
       },
-      :heroine_friends => []      #your key/value pairs here!
+      :heroine_friends => []
       }}
 
 
