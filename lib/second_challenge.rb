@@ -4,8 +4,12 @@ def second_challenge
       :patriarch => {
         :name => "Lord Montague"
       },
-      :matriarch => {},
-      :hero => {},
+      :matriarch => {
+        name: "Lady Montague"
+      },
+      :hero => {
+        name: "Romeo"
+      },
       :hero_friends => []
 
       },
